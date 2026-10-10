@@ -1,6 +1,11 @@
-# 辉宁知识产权 · Hui Ning IP
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logo-reversed.png">
+  <img src="logo.png" alt="辉宁知识产权 Hui Ning IP" width="150">
+</picture>
+</p>
 
-<img src="https://huiningip.github.io/og-home.png" alt="Hui Ning IP — Rooted in Expertise and Powered by AI" width="100%">
+# 辉宁知识产权 · Hui Ning IP
 
 **Open-source IP practice skills for AI agents — Madrid · Hague · PCT.**
 
